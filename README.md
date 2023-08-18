@@ -21,7 +21,3 @@
  1. Type `git clone https://github.com/Sagar-Sharma-7/Face_Detection.git`
  1. Press **Enter** to create the clone of this repositary.
 <hr>
-
-## License 
-### The scripts and documentation in this project are released under the MIT License 
-![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)
