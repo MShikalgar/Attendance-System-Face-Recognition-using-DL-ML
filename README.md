@@ -18,6 +18,6 @@
  ## Cloning this repositary using command line
  1. Open **Git Bash**.
  1. Change the current working directory to the location where you want the cloned directory.
- 1. Type `[git clone https://github.com/Sagar-Sharma-7/Face_Detection.git](https://github.com/mubarak-exe/Attendance-System-Face-Recognition-using-DL-ML.git)`
+ 1. Type ```git clone https://github.com/Sagar-Sharma-7/Face_Detection.git```
  1. Press **Enter** to create the clone of this repositary.
 <hr>
